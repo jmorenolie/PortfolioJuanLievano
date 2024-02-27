@@ -1,66 +1,61 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Juan Liévano",
+    "label": "Ingeniero de sistemas, con experiencia en Programación, TI, Enseñanza y Ciberseguridad",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "jmorenolievano@gmail.com",
+    "phone": "+57 3105563474",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Ingeniero de sistemas con +2 años de experiencia en el entorno de la Ciberseguiridad, IT, desarrollo y la enseñanza. Actualmente soy Divulgador sobre Programación y ciberseguridad. Vivo en Bogotá, Colombia. He trabajado en diferentes entornos: Desde la enseñanza del desarrollo de videojuegos hasta liderando como coordinador de la mesa de Soporte TI.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "",
+      "city": "Bogotá",
+      "countryCode": "COL",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Juan Liévano",
+        "url": "https://www.linkedin.com/in/jmorenolie/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Juan Liévano",
+        "url": "https://github.com/jmorenolie"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Algorithmics",
+      "position": "Docente",
+      "url": "http://chapinero.alg.academy/",
+      "startDate": "2023-06-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Cumplo el labor de enseñar a los proxios programadores del futuro sobre la programación, diseño de videojuegos, analisis de datos, esto para que los estudiantes puedan alcanzar sus sueños, logrando varios estudiantes graduados y generando valor a la empresa apoyando y atrayendo más leads el proceso.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Tuinno - Axity - Inchcape",
+      "position": "Analista Soporte TI",
+      "url": "https://www.tuinno.com/",
+      "startDate": "2023-10-12",
+      "endDate": "2024-02-23",
+      "summary": "Trabajé en Tuinno para un proyecto de Axity relacionado con procesos de migración de las cuentas de Office 365 de Inchcape. Dando así un excelente trabajo y aporte valioso a la empresa para optimizar el proceso del proyecto, dando resultados siempre eficientes y siendo proactivo en el momento indicado.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Gobernación de Cundinamarca",
+      "position": "Soporte TI - Ciberseguridad",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Hice parte de la Gobernación de Cundinamarca en el Sector de la salud, donde asisti como pasante, haciendo uso de gestor de contraseñas, software de migración de correo y optimización de Macros.",
       "highlights": [
         "Started the company"
       ]
@@ -78,12 +73,12 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Universidad de Cundinamarca",
+    "url": "https://www.ucundinamarca.edu.co/",
+    "area": "Ingeniero de Sistemas",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2018-01-02",
+    "endDate": "2025-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -111,45 +106,37 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "level": "Medium"
     },
     {
       "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "level": "Medium"
     },
     {
-      "name": "JavaScript",
+      "name": "Javascript",
+      "level": "Medium"
+    },
+    {
+      "name": "Python",
       "level": "Master",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "C#",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
+      "name": "Office",
+      "level": "Avanzado"
     },
     {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+      "name": "PostgreSQL",
+      "level": "Avanzado"
     },
     {
       "name": "MySQL",
@@ -159,32 +146,36 @@
       ]
     },
     {
+      "name": "SQLServer",
+      "level": "Avanzado"
+    },
+    {
       "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "level": "Avanzado"
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
+      "level": "Avanzado"
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
+      "name": "Google Workspace",
+      "level": "Avanzado"
     },
     {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "name": "Ping ID",
+      "level": "Avanzado"
+    },
+    {
+      "name": "SAP",
+      "level": "Avanzado"
+    },
+    {
+      "name": "SalesForce",
+      "level": "Avanzado"
+    },
+    {
+      "name": "2FA",
+      "level": "Avanzado"
     }
   ],
   "languages": [
@@ -210,66 +201,33 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Analisis de Datos",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Creación de gestor de Datos con Looker",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Mira tus datos",
+        "Privado"
       ],
       "url": "https://mars.codes"
     },
     {
-      "name": "AdventJS",
+      "name": "Wayuu",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Videojuego para el conocimiento de la cultura Wayuu Colombiana",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Desarrollo social",
+        "Educación",
+        "Unity"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://youtu.be/QVvljtms7hQ?si=reLUL9it_bt1cgYb"
     },
     {
-      "name": "Codember",
+      "name": "Gestos de Colegios",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Gestor de instituciones",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+        "Proyecto Universidatio"
+      ]
     }
   ]
 }
