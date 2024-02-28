@@ -6,7 +6,7 @@
     "email": "jmorenolievano@gmail.com",
     "phone": "+57 3105563474",
     "url": "https://midu.dev",
-    "summary": "Ingeniero de sistemas con +2 años de experiencia en el entorno de la Ciberseguiridad, IT, desarrollo y la enseñanza. Actualmente soy Divulgador sobre Programación y ciberseguridad. Vivo en Bogotá, Colombia. He trabajado en diferentes entornos: Desde la enseñanza del desarrollo de videojuegos hasta liderando como coordinador de la mesa de Soporte TI.",
+    "summary": "Juan Liévano Ingeniero de sistemas con más de 2 años de experiencia en el ámbito de la ciberseguridad, tecnologías de la información, desarrollo y enseñanza. Actualmente, me desempeño como divulgador en temas de programación y ciberseguridad. Resido en Bogotá, Colombia. A lo largo de mi carrera, he trabajado en diversos entornos, desde la enseñanza del desarrollo de videojuegos hasta liderar como coordinador de la mesa de soporte TI..",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,7 +34,7 @@
       "url": "http://chapinero.alg.academy/",
       "startDate": "2023-06-01",
       "endDate": null,
-      "summary": "Cumplo el labor de enseñar a los proxios programadores del futuro sobre la programación, diseño de videojuegos, analisis de datos, esto para que los estudiantes puedan alcanzar sus sueños, logrando varios estudiantes graduados y generando valor a la empresa apoyando y atrayendo más leads el proceso.",
+      "summary": "Mi labor consiste en guiar a los futuros programadores en su camino hacia el éxito. A través de la enseñanza, les brindo las herramientas necesarias para comprender la programación, diseñar videojuegos y analizar datos. Mi objetivo es que los estudiantes alcancen sus sueños y se gradúen con éxito. Además, contribuyo al crecimiento de la empresa al aportar valor y atraer nuevos leads..",
       "highlights": [
         "Started the company"
       ]
@@ -45,7 +45,7 @@
       "url": "https://www.tuinno.com/",
       "startDate": "2023-10-12",
       "endDate": "2024-02-23",
-      "summary": "Trabajé en Tuinno para un proyecto de Axity relacionado con procesos de migración de las cuentas de Office 365 de Inchcape. Dando así un excelente trabajo y aporte valioso a la empresa para optimizar el proceso del proyecto, dando resultados siempre eficientes y siendo proactivo en el momento indicado.",
+      "summary": "Durante mi tiempo en Tuinno, participé en un proyecto crucial para Axity, centrado en la migración de cuentas de Office 365 para Inchcape. Mi desempeño fue excepcional, y mi contribución fue valiosa al optimizar el proceso del proyecto. Siempre me esforcé por obtener resultados eficientes y demostré proactividad en los momentos clave..",
       "highlights": [
         "Started the company"
       ]
@@ -55,7 +55,7 @@
       "position": "Soporte TI - Ciberseguridad",
       "startDate": "2022",
       "endDate": "2023",
-      "summary": "Hice parte de la Gobernación de Cundinamarca en el Sector de la salud, donde asisti como pasante, haciendo uso de gestor de contraseñas, software de migración de correo y optimización de Macros.",
+      "summary": "Durante mi pasantía en la Gobernación de Cundinamarca, trabajé en el sector de la salud. Mi rol incluyó el uso de un gestor de contraseñas, la implementación de software de migración de correo y la optimización de macros. Fue una experiencia valiosa en la que pude aplicar mis habilidades técnicas y contribuir al funcionamiento eficiente del equipo..",
       "highlights": [
         "Started the company"
       ]
@@ -78,7 +78,7 @@
     "area": "Ingeniero de Sistemas",
     "studyType": "Bachelor",
     "startDate": "2018-01-02",
-    "endDate": "2025-01-01",
+    "endDate": "2025401-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -213,7 +213,7 @@
     {
       "name": "Wayuu",
       "isActive": true,
-      "description": "Videojuego para el conocimiento de la cultura Wayuu Colombiana",
+      "description": "Videojuego para el conocimiento de la cultura Wayuu Colombiana, trabajo en conjunto",
       "highlights": [
         "Desarrollo social",
         "Educación",
@@ -227,7 +227,8 @@
       "description": "Gestor de instituciones",
       "highlights": [
         "Proyecto Universidatio"
-      ]
+      ],
+      "url": "https://github.com/jmorenolie/LP-lll/blob/main/Que%20tiene%20esto.txt"
     }
   ]
 }
